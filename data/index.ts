@@ -129,7 +129,7 @@ export const testimonials = [
     title: "Manager of Erth's Material",
   },
   {
-    image: "sj.jpg",
+    image: "sj.png",
     quote:
       "Safwan is an exceptional full-stack developer who consistently delivers high-quality work. His expertise in both frontend and backend development has greatly enhanced our projects. He approaches challenges with creativity and professionalism, making him a reliable partner. I greatly appreciate his dedication",
     name: "Shajahan",
