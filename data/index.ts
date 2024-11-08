@@ -148,80 +148,67 @@ export const companies = [
     id: 1,
     name: "Node.js",
     img: "https://img.icons8.com/fluency/144/node-js.png",
-    nameImg: "/cloudName.svg",
   },
   {
     id: 4,
     name: "React.js",
     img: "https://img.icons8.com/color/144/react-native.png",
-    nameImg: "/streamName.svg",
   },
   {
     id: 5,
     name: "MongoDB",
     img: "https://img.icons8.com/color/144/mongodb.png",
-    nameImg: "/dockerName.svg",
   },
   {
     id: 1,
     name: "redux",
     img: "https://img.icons8.com/color/144/redux.png",
-    nameImg: "/cloudName.svg",
   },
   {
     id: 4,
     name: "Typescript",
     img: "https://img.icons8.com/color/144/typescript.png",
-    nameImg: "/streamName.svg",
   },
   {
     id: 5,
     name: "git",
     img: "https://img.icons8.com/color/144/git.png",
-    nameImg: "/dockerName.svg",
   },
   {
     id: 5,
     name: "js",
     img: "https://img.icons8.com/color/144/javascript--v1.png",
-    nameImg: "/dockerName.svg",
   },
   {
     id: 2,
     name: "appwrite",
     img: "/app.svg",
-    nameImg: "/appName.svg",
   },
   {
     id: 3,
     name: "tailwindcss",
     img: "https://img.icons8.com/color/144/tailwind_css.png",
-    nameImg: "/hostName.svg",
   },
 
   {
     id: 2,
     name: "HTML5",
     img: "https://img.icons8.com/color/144/html-5--v1.png",
-    nameImg: "/appName.svg",
   },
   {
     id: 2,
     name: "css",
     img: "https://img.icons8.com/color/144/css3.png",
-    nameImg: "/appName.svg",
   },
   {
     id: 3,
     name: "UI/UX",
     img: "https://img.icons8.com/fluency/144/figma.png",
-    nameImg: "/hostName.svg",
   },
   {
     id: 3,
     name: "framer",
     img: "framer.png",
-    nameImg: "/hostName.svg",
   },
 ];
 
